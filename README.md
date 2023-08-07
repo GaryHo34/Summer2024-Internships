@@ -108,7 +108,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **KAYAK** | Java Engineering Intern - Adtech | Concord, CA | 🔒 | Jun |
 | **Bamboo Health** | Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently) | Boston, MA <br/> Remote | 🔒 | Jun |
 | **Rakuten** | Software Engineer Intern | WV, USA | 🔒 | Jun |
-| **[Zipline](https://simplify.jobs/c/Zipline)** | Summer 2024 Internship (Express Interest) | SF | <a href="https://legacy.flyzipline.com/job?gh_jid=5631836003/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **[Zipline](https://simplify.jobs/c/Zipline)** | Summer 2024 Internship (Express Interest) | SF | 🔒 | Jun |
 | **Two Sigma** | Quantitative Researcher - Internship | NYC | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Citadel** | Software Engineer Intern | Chicago, IL <br/> NYC | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Citadel** | Investment & Trading Intern | Chicago, IL <br/> NYC | <a href="https://www.citadel.com/careers/details/investment-trading-intern-us/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
